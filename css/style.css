@@ -107,8 +107,15 @@ header span {
 
   font-size: 1.8rem;
   font-weight: 600;
-  margin-bottom: ,8em;
+  margin-bottom: .8em;
 
+
+}
+
+ul {
+
+  list-style-type: none;
+  margin-bottom: 2em;
 
 }
 
@@ -123,11 +130,13 @@ header span {
 
   margin-bottom: 2em;
 
+
 }
 
 .tasks-list li {
 
   font-size: 1.6rem;
+  margin-bottom: 2em;
 
 }
 
@@ -149,6 +158,13 @@ header span {
 
 }
 
+.circle-cross {
+
+  color: #eb5952;
+  border-color: #eb5952;
+
+}
+
 .tag {
 
   padding: .4em .6em;
@@ -165,5 +181,22 @@ header span {
 
 }
 
+.tag-2 {
+
+  background-color: #45abea;
+
+}
+
+.tag-3 {
+
+  background-color: #9c72e4;
+
+}
+
+.tag-4 {
+
+  background-color: #b0c926;
+
+}
 
  
